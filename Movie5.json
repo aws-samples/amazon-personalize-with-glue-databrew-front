@@ -1,0 +1,16 @@
+{
+    "Movie": [
+        {"PutRequest": 
+            {"Item": {"id": {"S": "97"},"name": {"S": "97 Movie"},"category": {"S": "Action|Fantasy"},"imageUrl": {"S": ""},"description": {"S": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane."}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"98"},"imageUrl":{"S":""},"name":{"S":"98 Movie"},"category":{"S":"Drama|Sci-Fi"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"99"},"imageUrl":{"S":""},"name":{"S":"99 Movie"},"category":{"S":"Adventure|Drama"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"100"},"imageUrl":{"S":""},"name":{"S":"100 Movie"},"category":{"S":"Drama|Thriller"}}}
+        }
+    ]
+}

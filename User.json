@@ -1,0 +1,380 @@
+{
+    "User": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "1"
+                    },
+                    "name": {
+                        "S": "admin"
+                    },
+                    "password": {
+                        "S": "admin"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "2"
+                    },
+                    "name": {
+                        "S": "admin2"
+                    },
+                    "password": {
+                        "S": "admin2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "3"
+                    },
+                    "name": {
+                        "S": "admin3"
+                    },
+                    "password": {
+                        "S": "admin3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "4"
+                    },
+                    "name": {
+                        "S": "admin4"
+                    },
+                    "password": {
+                        "S": "admin4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "5"
+                    },
+                    "name": {
+                        "S": "admin5"
+                    },
+                    "password": {
+                        "S": "admin5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "6"
+                    },
+                    "name": {
+                        "S": "admin6"
+                    },
+                    "password": {
+                        "S": "admin6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "7"
+                    },
+                    "name": {
+                        "S": "admin7"
+                    },
+                    "password": {
+                        "S": "admin7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "8"
+                    },
+                    "name": {
+                        "S": "admin8"
+                    },
+                    "password": {
+                        "S": "admin8"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "9"
+                    },
+                    "name": {
+                        "S": "admin9"
+                    },
+                    "password": {
+                        "S": "admin9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "10"
+                    },
+                    "name": {
+                        "S": "admin10"
+                    },
+                    "password": {
+                        "S": "admin10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "11"
+                    },
+                    "name": {
+                        "S": "admin11"
+                    },
+                    "password": {
+                        "S": "admin11"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "12"
+                    },
+                    "name": {
+                        "S": "admin12"
+                    },
+                    "password": {
+                        "S": "admin12"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "13"
+                    },
+                    "name": {
+                        "S": "admin13"
+                    },
+                    "password": {
+                        "S": "admin13"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "14"
+                    },
+                    "name": {
+                        "S": "admin14"
+                    },
+                    "password": {
+                        "S": "admin14"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "15"
+                    },
+                    "name": {
+                        "S": "admin15"
+                    },
+                    "password": {
+                        "S": "admin15"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "16"
+                    },
+                    "name": {
+                        "S": "admin16"
+                    },
+                    "password": {
+                        "S": "admin16"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "17"
+                    },
+                    "name": {
+                        "S": "admin17"
+                    },
+                    "password": {
+                        "S": "admin17"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "18"
+                    },
+                    "name": {
+                        "S": "admin18"
+                    },
+                    "password": {
+                        "S": "admin18"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "19"
+                    },
+                    "name": {
+                        "S": "admin19"
+                    },
+                    "password": {
+                        "S": "admin19"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "20"
+                    },
+                    "name": {
+                        "S": "admin20"
+                    },
+                    "password": {
+                        "S": "admin20"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "21"
+                    },
+                    "name": {
+                        "S": "admin21"
+                    },
+                    "password": {
+                        "S": "admin21"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "22"
+                    },
+                    "name": {
+                        "S": "admin22"
+                    },
+                    "password": {
+                        "S": "admin22"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "23"
+                    },
+                    "name": {
+                        "S": "admin23"
+                    },
+                    "password": {
+                        "S": "admin23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "24"
+                    },
+                    "name": {
+                        "S": "admin24"
+                    },
+                    "password": {
+                        "S": "admin24"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userId": {
+                        "S": "25"
+                    },
+                    "name": {
+                        "S": "admin25"
+                    },
+                    "password": {
+                        "S": "admin25"
+                    }
+                }
+            }
+        }
+
+    ]
+}

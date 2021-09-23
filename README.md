@@ -1,11 +1,20 @@
-## My Project
+# How to setup your environment for Movie Recommendation web app using Personalize
 
-TODO: Fill this README out!
+## Install Dependencies
+```
+npm install
+```
 
-Be sure to:
+## Run locally
+```
+npm run start
+```
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Build for production
+```
+npm run build
+```
+
 
 ## Security
 

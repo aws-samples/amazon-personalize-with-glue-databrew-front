@@ -1,0 +1,80 @@
+{
+    "Movie": [
+        {"PutRequest": 
+            {"Item": {"id": {"S": "73"},"name": {"S": "73 Movie"},"category": {"S": "Action|Fantasy"},"imageUrl": {"S": ""},"description": {"S": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane."}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"74"},"imageUrl":{"S":""},"name":{"S":"74 Movie"},"category":{"S":"Drama|Sci-Fi"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"75"},"imageUrl":{"S":""},"name":{"S":"Lamerica (1994)"},"category":{"S":"75 Movie"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"76"},"imageUrl":{"S":""},"name":{"S":"76 Movie"},"category":{"S":"Drama|Thriller"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"77"},"imageUrl":{"S":""},"name":{"S":"77 Movie"},"category":{"S":"Children|Comedy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"78"},"imageUrl":{"S":""},"name":{"S":"78 Movie"},"category":{"S":"Crime|Drama"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"79"},"imageUrl":{"S":""},"name":{"S":"79 Movie"},"category":{"S":"Drama"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"80"},"name":{"S":"80 Movie"},"genres":{"S":"Action|Sci-Fi|Thriller"},"imageUrl":{"S":""}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"81"},"imageUrl":{"S":""},"name":{"S":"81 Movie"},"category":{"S":"Action|Thriller"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"82"},"imageUrl":{"S":""},"name":{"S":"82 Movie"},"category":{"S":"Children|Drama"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"83"},"imageUrl":{"S":""},"name":{"S":"83 Movie"},"category":{"S":"Drama|Romance"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"84"},"imageUrl":{"S":""},"name":{"S":"84 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"85"},"imageUrl":{"S":""},"name":{"S":"85 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"86"},"imageUrl":{"S":""},"name":{"S":"86 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"87"},"imageUrl":{"S":""},"name":{"S":"87 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"88"},"imageUrl":{"S":""},"name":{"S":"88 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"89"},"imageUrl":{"S":""},"name":{"S":"89 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"90"},"imageUrl":{"S":""},"name":{"S":"90 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"91"},"imageUrl":{"S":""},"name":{"S":"91 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"92"},"imageUrl":{"S":""},"name":{"S":"92 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"93"},"imageUrl":{"S":""},"name":{"S":"93 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"94"},"imageUrl":{"S":""},"name":{"S":"94 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"95"},"imageUrl":{"S":""},"name":{"S":"95 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        },
+        {"PutRequest": 
+            {"Item":{"id":{"S":"96"},"imageUrl":{"S":""},"name":{"S":"96 Movie"},"category":{"S":"Adventure|Children|Fantasy"}}}
+        }
+        
+
+
+
+    ]
+}
